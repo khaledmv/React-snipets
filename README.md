@@ -1,2 +1,2 @@
 ## React Snippets
-# Would you like to check all sub repository
+# Would you like to check all branches
