@@ -148,7 +148,7 @@ const FormWithoutYup = () => {
           placeholder="Enter your first name"
           onChange={handleChange}
         />
-        {errors.firstName && <div className="error">{errors.firstName}</div>}
+        { errors.firstName && <div className="error"> {errors.firstName} </div>}
       </div>
       <div>
         <label>Last Name:</label>
